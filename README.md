@@ -135,7 +135,15 @@
 
 
 
-## 小众音乐
+## 电影一刻
+
+- [SUBZIN](<http://www.subzin.com/>)：根据台词或台词关键字搜电影
+
+- [filmgrab](<https://film-grab.com/>)：电影中某一个经典画面的定格
+
+  
+
+## 音乐一刻
 
 - [a soft murmur](https://asoftmurmur.com)：听，那是下雨的声音
 - [noisli](<https://www.noisli.com/>)：白噪音，画面美观
