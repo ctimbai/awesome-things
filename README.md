@@ -102,7 +102,10 @@
     - [Sublime Text 3](<https://www.sublimetext.com/>)：多种强大的插件支持
     - [Vim](<https://www.vim.org/>)：高手都只用这一款
 
+## 写作工具
 
+- [Typora](https://typora.io/)：界面美观好用的 Markdown 工具
+- [HexoEditor](https://github.com/zhuzhuyule/HexoEditor)：专为 Hexo 写作的 Markdown 工具
 
 ## Mac 工具
 
