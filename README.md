@@ -33,6 +33,7 @@
 - [CSDN](https://www.csdn.net/)：博客平台，IT技术社区
 - [开源中国](https://www.oschina.net/)：博客平台，开源技术社区
 - [知乎](https:www.zhihu.com)：国内在线问答网站
+- [V2EX](https://www.v2ex.com/)：一个分享和探索的论坛
 
 
 
@@ -155,7 +156,6 @@
 - [filmgrab](<https://film-grab.com/>)：电影中某一个经典画面的定格
 - [a soft murmur](https://asoftmurmur.com)：听，那是下雨的声音
 - [noisli](<https://www.noisli.com/>)：白噪音，画面美观
-
 
 
 
