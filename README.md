@@ -122,6 +122,7 @@
 - [Pendo](<https://www.iplaysoft.com/pendo.html>)：时间轴记笔记工具，耳目一新
 - [iPoem](<https://itunes.apple.com/cn/app/ipoem-%E8%89%BA%E6%9C%AF%E5%90%8D%E7%94%BB-%E5%8F%A4%E5%85%B8%E8%AF%97%E6%AD%8C%E7%9A%84%E7%BA%A6%E4%BC%9A/id1444708413?mt=12>)：油画风格的壁纸软件，很有 feel
 - [Sketch](https://www.sketch.com/get/)：Mac 上非常漂亮的画图工具
+- [keka](https://www.keka.io/zh-cn/)：可能是 Mac 下最好用的压缩/解压缩工具了
 
 
 
