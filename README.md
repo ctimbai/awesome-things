@@ -21,7 +21,7 @@
 - [Coding 一下](http://www.coding.so/)：专为技术人员提供的一款搜索引擎，可以搜资料，搜知识点
 - [Glgoo](https://xue.glgoo.org/)：Google 学术镜像，科研人员推荐使用
 
-
+## Chrome 插件
 
 ## 技术社区
 
@@ -35,6 +35,11 @@
 - [知乎](https:www.zhihu.com)：国内在线问答网站
 
 
+
+## 新闻社区
+
+- [今日热榜](https://tophub.today/)：追热点啦，汇聚各大平台的 Top 10 热点
+- [AnyKnew](https://www.anyknew.com/#/)：另一个热榜，信息没上一个全，文艺小清新风格
 
 ## 在线 Coding
 
@@ -73,13 +78,12 @@
 
 - [tool.lu](https://tool.lu/)：程序员的工具箱
 - [tool.oschina](http://tool.oschina.net/)：开源中国的在线工具箱
-- [draw.io](http://draw.io/) ：在线画图，亦有客户端，样式多样，支持各种导出保存
-- [processon](https://www.processon.com/) ：在线画图，文艺清晰的图片风格
-- [slides](https://slides.com/)：在线 PPT 工具
 - [Compiler Explorer](https://godbolt.org/)：在线汇编查看器
 - [OnlineGDB](https://www.onlinegdb.com/)：C/C++在线编译调试器，支持在线 GDB 调试，控制台输入
 - [wandbox](https://wandbox.org/)：在线编译器，支持多语言，多编译器版本
 - [codechef](https://www.codechef.com/ide)：在线编译器，支持多语言
+- [slides](https://slides.com/)：在线 PPT 工具
+
 
 
 
@@ -137,26 +141,20 @@
 - [码市](https://mart.coding.net/)：Coding 推出的基于云技术的软件外包平台
 - [自客](http://www.zike.com/)：职场知识技能共享平台互联网中高端人才技能与知识分享平台
 
-
-
-## 小众工具
-
+## 图片相关
+- [iconfont](https://www.iconfont.cn/)：阿里巴巴图片矢量库，设计作图必备
+- [60logo](http://www.60logo.com/)：搜索和下载 logo
+- [draw.io](http://draw.io/) ：在线画图，亦有客户端，样式多样，支持各种导出保存
+- [processon](https://www.processon.com/) ：在线画图，文艺清晰的图片风格
+- [carbon](https://carbon.now.sh)：代码转图片的美化工具
 - [抠图神器](remove.bg)：在线 **自动** 抠图，不用注册而且免费
-- 
 
-## 电影一刻
+## 影音一刻
 
 - [SUBZIN](<http://www.subzin.com/>)：根据台词或台词关键字搜电影
-
 - [filmgrab](<https://film-grab.com/>)：电影中某一个经典画面的定格
-
-  
-
-## 音乐一刻
-
 - [a soft murmur](https://asoftmurmur.com)：听，那是下雨的声音
 - [noisli](<https://www.noisli.com/>)：白噪音，画面美观
-
 
 
 
