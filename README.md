@@ -21,7 +21,7 @@
 - [Coding 一下](http://www.coding.so/)：专为技术人员提供的一款搜索引擎，可以搜资料，搜知识点
 - [Glgoo](https://xue.glgoo.org/)：Google 学术镜像，科研人员推荐使用
 
-## Chrome 插件
+
 
 ## 技术社区
 
@@ -158,7 +158,13 @@
 - [a soft murmur](https://asoftmurmur.com)：听，那是下雨的声音
 - [noisli](<https://www.noisli.com/>)：白噪音，画面美观
 
+## Chrome 插件
 
+- [chromapps](https://www.gugeapps.net/)：绝大多数插件都可以在这里找到
+- [划词翻译](https://chrome.google.com/webstore/category/extensions?hl=zh)：划词翻译中英文
+- [Full Page Screen Capture](https://chrome.google.com/webstore/category/extensions?hl=zh)：截图工具
+- [MEGA](https://chrome.google.com/webstore/category/extensions?hl=zh)：高速云盘，免费赠送 50G 空间
+- [Lucidchart Diagrams](https://chrome.google.com/webstore/category/extensions?hl=zh)：绘图神器，可绘制流程图、实体模型、UML、思维导图等更多图表
 
 ---
 
