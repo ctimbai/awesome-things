@@ -12,7 +12,7 @@
 
 ## 搜索引擎
 
-首选 Google，fq 工具首选 [Shadowsocks](<https://github.com/shadowsocks>)，免费上网代理找 [V站](<https://free-ss.ooo/>)
+首选 Google，fq 工具首选 [Shadowsocks](<https://github.com/shadowsocks>)，各个系统下载见[这里](https://copr.fedorainfracloud.org/coprs/librehat/shadowsocks/)，免费上网代理找 [V站](<https://free-ss.ooo/>)
 
 - [Bing](<https://cn.bing.com/>) ：微软必应，如果被屏蔽，用[这个](https://www2.bing.com/)做备忘
 - [Yandex](https://yandex.com/)：俄罗斯本土搜索引擎，干净清爽，简洁好用
