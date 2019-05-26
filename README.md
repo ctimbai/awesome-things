@@ -112,6 +112,8 @@
 - [Typora](https://typora.io/)：界面美观好用的 Markdown 工具
 - [HexoEditor](https://github.com/zhuzhuyule/HexoEditor)：专为 Hexo 写作的 Markdown 工具
 
+
+
 ## Mac 工具
 
 - [waitsun.com](http://www.waitsun.com)：精品 Mac 应用分享，各种破解版软件应有尽有
@@ -132,6 +134,8 @@
 - [md.javastack.cn](http://md.javastack.cn)：类似的
 - [想学吗](https://github.com/xland/xiangxuema)：个人信息管理工具
 - [sm.sm](https://sm.ms/)：公众号图片上传工具
+- [knb.im](<https://knb.im/mp/>)：「可能吧」号主阿禅写的文艺小清新排版工具
+- [lyric](<https://lab.lyric.im/wxformat/#>)：「歌词经理」号主写的排版工具，**目前看到最好** ，强推。
 
 
 
@@ -143,7 +147,7 @@
 - [码市](https://mart.coding.net/)：Coding 推出的基于云技术的软件外包平台
 - [自客](http://www.zike.com/)：职场知识技能共享平台互联网中高端人才技能与知识分享平台
 
-## 图片相关
+## 图片工具
 - [iconfont](https://www.iconfont.cn/)：阿里巴巴图片矢量库，设计作图必备
 - [60logo](http://www.60logo.com/)：搜索和下载 logo
 - [draw.io](http://draw.io/) ：在线画图，亦有客户端，样式多样，支持各种导出保存
