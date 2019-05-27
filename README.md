@@ -170,6 +170,8 @@
 - [Full Page Screen Capture](https://chrome.google.com/webstore/category/extensions?hl=zh)：截图工具
 - [MEGA](https://chrome.google.com/webstore/category/extensions?hl=zh)：高速云盘，免费赠送 50G 空间
 - [Lucidchart Diagrams](https://chrome.google.com/webstore/category/extensions?hl=zh)：绘图神器，可绘制流程图、实体模型、UML、思维导图等更多图表
+- [Listen](https://github.com/listen1/listen1_chrome_extension)：聚合各大音乐平台，解决由于音乐版权致音乐不齐全的问题
+- [Gitzip](https://chrome.google.com/webstore/category/extensions?hl=zh)：只下载部分 GitHub 的资源，可勾选下载
 
 ---
 
