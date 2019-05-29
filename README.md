@@ -155,11 +155,14 @@
 - [carbon](https://carbon.now.sh)：代码转图片的美化工具
 - [抠图神器](remove.bg)：在线 **自动** 抠图，不用注册而且免费
 - [图怪兽](<https://818ps.com/>)：作图不求人，在线做海报之类的图
+- [压缩图](https://www.yasuotu.com/shuiyin)：给图片加水印
 
 ## 影音一刻
 
 - [SUBZIN](<http://www.subzin.com/>)：根据台词或台词关键字搜电影
 - [filmgrab](<https://film-grab.com/>)：电影中某一个经典画面的定格
+- [全民解析](http://www.qmaile.com/)：解析各大视频网站 VIP 视频
+- [微博党](http://weibodang.cn)：下载多个视频网站的视频
 - [a soft murmur](https://asoftmurmur.com)：听，那是下雨的声音
 - [noisli](<https://www.noisli.com/>)：白噪音，画面美观
 
