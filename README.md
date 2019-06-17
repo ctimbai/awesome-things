@@ -75,6 +75,18 @@
 
 
 
+**国内名校开源课程：**
+
+- [北京大学课程](https://lib-pku.github.io)
+- [清华大学课程](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+- [浙江大学课程](https://qsctech.github.io/zju-icicles)
+- [中国科学技术大学课程](https://ustc-resource.github.io/USTC-Course)
+- [上海交通大学课程](https://github.com/CoolPhilChen/SJTU-Courses)
+
+
+
+
+
 ## 在线工具
 
 - [tool.lu](https://tool.lu/)：程序员的工具箱
