@@ -97,6 +97,7 @@
 - [codechef](https://www.codechef.com/ide)：在线编译器，支持多语言
 - [slides](https://slides.com/)：在线 PPT 工具
 - [visualgo](https://visualgo.net/zh)：算法可视化
+- [mind](https://www.mindmeister.com/zh/)：在线思维导图工具，风格大赞！
 
 
 
