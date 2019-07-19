@@ -98,6 +98,8 @@
 - [slides](https://slides.com/)：在线 PPT 工具
 - [visualgo](https://visualgo.net/zh)：算法可视化
 - [mind](https://www.mindmeister.com/zh/)：在线思维导图工具，风格大赞！
+- [fusuma](https://github.com/hiroppy/fusuma)：在线Markdown PPT工具制作
+- 
 
 
 
