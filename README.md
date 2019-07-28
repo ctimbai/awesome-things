@@ -99,7 +99,8 @@
 - [visualgo](https://visualgo.net/zh)：算法可视化
 - [mind](https://www.mindmeister.com/zh/)：在线思维导图工具，风格大赞！
 - [fusuma](https://github.com/hiroppy/fusuma)：在线Markdown PPT工具制作
-- 
+
+
 
 
 
@@ -173,6 +174,18 @@
 - [抠图神器](remove.bg)：在线 **自动** 抠图，不用注册而且免费
 - [图怪兽](<https://818ps.com/>)：作图不求人，在线做海报之类的图
 - [压缩图](https://www.yasuotu.com/shuiyin)：给图片加水印
+
+## 小众工具
+
+- [BlueDoc](https://bluedoc.org/zh/)：汇集企业内分散在各处的文档，形成一个便于交流、分享、协作的文档平台
+- [pan-light](https://pan-light.peterq.cn/)：跨平台，不限速的百度网盘客户端
+- [fusuma](https://github.com/hiroppy/fusuma)：用 Markdown 写 slides
+- [优效日历](http://www.youxiao.cn/index.php/yxcalendar/)：一款非常干净整洁的日历软件
+- [utools](https://u.tools/)：极简、插件化、跨平台的现代化桌面软件
+- [FinalShell](http://www.hostbuf.com/t/988.html)：据说是最好用的 [SSH 客户端](https://www.bilibili.com/read/cv718695/)
+- [markdown-resume](https://github.com/guanpengchn/markdown-resume)：用 Markdown 制作简历
+
+
 
 ## 影音一刻
 
