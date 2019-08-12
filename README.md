@@ -37,10 +37,13 @@
 
 
 
-## 新闻社区
+## 新闻社区导航
 
 - [今日热榜](https://tophub.today/)：追热点啦，汇聚各大平台的 Top 10 热点
 - [AnyKnew](https://www.anyknew.com/#/)：另一个热榜，信息没上一个全，文艺小清新风格
+- [addog](http://www.addog.vip/)：极品干货、打遍天下无敌手网站（最全导航，囊括所有）
+
+
 
 ## 在线 Coding
 
@@ -99,6 +102,8 @@
 - [visualgo](https://visualgo.net/zh)：算法可视化
 - [mind](https://www.mindmeister.com/zh/)：在线思维导图工具，风格大赞！
 - [fusuma](https://github.com/hiroppy/fusuma)：在线Markdown PPT工具制作
+- [cn-ki](https://www.cn-ki.net/)：论文搜索与下载网站
+- 
 
 
 
@@ -166,6 +171,8 @@
 - [自客](http://www.zike.com/)：职场知识技能共享平台互联网中高端人才技能与知识分享平台
 
 ## 图片工具
+
+- [pexels](https://www.pexels.com/)：超清图片壁纸网站
 - [iconfont](https://www.iconfont.cn/)：阿里巴巴图片矢量库，设计作图必备
 - [60logo](http://www.60logo.com/)：搜索和下载 logo
 - [draw.io](http://draw.io/) ：在线画图，亦有客户端，样式多样，支持各种导出保存
@@ -184,6 +191,12 @@
 - [utools](https://u.tools/)：极简、插件化、跨平台的现代化桌面软件
 - [FinalShell](http://www.hostbuf.com/t/988.html)：据说是最好用的 [SSH 客户端](https://www.bilibili.com/read/cv718695/)
 - [markdown-resume](https://github.com/guanpengchn/markdown-resume)：用 Markdown 制作简历
+- [silk](http://weavesilk.com/)：交互式画画，你也可以画出一幅艺术画
+- [zitijia](https://www.zitijia.com/)：免费下载字体
+- [pixiv](https://www.pixiv.net)：二次元插画网站
+- [smallpdf](https://smallpdf.com/cn)：文档格式在线转换
+- [airdroid](https://web.airdroid.com/)：文档传输、远程控制、直播录屏
+- 
 
 
 
@@ -195,6 +208,8 @@
 - [微博党](http://weibodang.cn)：下载多个视频网站的视频
 - [a soft murmur](https://asoftmurmur.com)：听，那是下雨的声音
 - [noisli](<https://www.noisli.com/>)：白噪音，画面美观
+- [panzoid](https://panzoid.com/)：制作片头视频动画
+- 
 
 ## Chrome 插件
 
