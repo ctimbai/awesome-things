@@ -102,6 +102,8 @@
 - [mind](https://www.mindmeister.com/zh/)：在线思维导图工具，风格大赞！
 - [fusuma](https://github.com/hiroppy/fusuma)：在线Markdown PPT工具制作
 - [cn-ki](https://www.cn-ki.net/)：论文搜索与下载网站
+- [大眼仔](http://www.dayanzai.me/windows-soft)：各种软件下载
+- [盒子部落](https://www.hezibuluo.com/)：同上
 
 
 
@@ -177,6 +179,9 @@
 - [抠图神器](remove.bg)：在线 **自动** 抠图，不用注册而且免费
 - [图怪兽](<https://818ps.com/>)：作图不求人，在线做海报之类的图
 - [压缩图](https://www.yasuotu.com/shuiyin)：给图片加水印
+- [字体天下](http://www.fonts.net.cn/)：提供各种免费的字体下载
+
+
 
 ## 小众工具
 
@@ -198,6 +203,9 @@
 
 ## 影音一刻
 
+- [片源网](http://pianyuan.la/)：很多最新电影的下载，媲美电影天堂
+- [爱给](http://www.aigei.com/)：提供各种配乐、音效素材
+- 
 - [SUBZIN](<http://www.subzin.com/>)：根据台词或台词关键字搜电影
 - [filmgrab](<https://film-grab.com/>)：电影中某一个经典画面的定格
 - [全民解析](http://www.qmaile.com/)：解析各大视频网站 VIP 视频
