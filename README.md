@@ -20,6 +20,7 @@
 - [轨迹搜索](https://mijisou.com/)：国内号称不追踪你的搜索引擎
 - [Coding 一下](http://www.coding.so/)：专为技术人员提供的一款搜索引擎，可以搜资料，搜知识点
 - [Glgoo](https://xue.glgoo.org/)：Google 学术镜像，科研人员推荐使用
+- [aoding](https://www.aoding.xyz/)：翻墙
 
 
 
@@ -88,8 +89,6 @@
 
 
 
-
-
 ## 在线工具
 
 - [tool.lu](https://tool.lu/)：程序员的工具箱
@@ -103,9 +102,6 @@
 - [mind](https://www.mindmeister.com/zh/)：在线思维导图工具，风格大赞！
 - [fusuma](https://github.com/hiroppy/fusuma)：在线Markdown PPT工具制作
 - [cn-ki](https://www.cn-ki.net/)：论文搜索与下载网站
-- 
-
-
 
 
 
@@ -186,6 +182,7 @@
 
 - [BlueDoc](https://bluedoc.org/zh/)：汇集企业内分散在各处的文档，形成一个便于交流、分享、协作的文档平台
 - [pan-light](https://pan-light.peterq.cn/)：跨平台，不限速的百度网盘客户端
+- [pandownload](https://pandownload.com/)：又一款百度网盘不限速下载神器
 - [fusuma](https://github.com/hiroppy/fusuma)：用 Markdown 写 slides
 - [优效日历](http://www.youxiao.cn/index.php/yxcalendar/)：一款非常干净整洁的日历软件
 - [utools](https://u.tools/)：极简、插件化、跨平台的现代化桌面软件
@@ -196,7 +193,6 @@
 - [pixiv](https://www.pixiv.net)：二次元插画网站
 - [smallpdf](https://smallpdf.com/cn)：文档格式在线转换
 - [airdroid](https://web.airdroid.com/)：文档传输、远程控制、直播录屏
-- 
 
 
 
@@ -209,7 +205,8 @@
 - [a soft murmur](https://asoftmurmur.com)：听，那是下雨的声音
 - [noisli](<https://www.noisli.com/>)：白噪音，画面美观
 - [panzoid](https://panzoid.com/)：制作片头视频动画
-- 
+
+
 
 ## Chrome 插件
 
