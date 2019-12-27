@@ -217,8 +217,15 @@
 - [a soft murmur](https://asoftmurmur.com)：听，那是下雨的声音
 - [noisli](<https://www.noisli.com/>)：白噪音，画面美观
 - [panzoid](https://panzoid.com/)：制作片头视频动画
+- [flvcd](http://www.flvcd.com/index.htm)：下视频的网站
 
 
+
+## 抢票工具
+
+- [testerSunshine](https://github.com/testerSunshine/12306)：智能刷票，订票，功能包括自动登录、抢准点预售车票、捡漏票、智能候补票、邮件通知等，适用于 Linux、Windows
+- [12306购票助手](https://github.com/pjialin/py12306)：比上面一个功能更多，包括分布式、多账号、多任务购票、电话语音/邮件/微信消息通知、Docker/代理池支持、Web管理页面等
+- [12306 分流](https://www.bypass.cn/)：有界面的 12306 分流工具，仅适用于 Windows，界面友好
 
 ## Chrome 插件
 
