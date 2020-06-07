@@ -209,7 +209,9 @@
 - [smallpdf](https://smallpdf.com/cn)：文档格式在线转换
 - [airdroid](https://web.airdroid.com/)：文档传输、远程控制、直播录屏
 
+## 效率工具
 
+- [火柴](https://www.huochaipro.com/)：比 everything 还好用的工具
 
 ## 影音一刻
 
