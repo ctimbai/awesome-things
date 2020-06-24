@@ -159,7 +159,8 @@
 - [想学吗](https://github.com/xland/xiangxuema)：个人信息管理工具
 - [sm.sm](https://sm.ms/)：公众号图片上传工具
 - [knb.im](<https://knb.im/mp/>)：「可能吧」号主阿禅写的文艺小清新排版工具
-- [lyric](<https://lab.lyric.im/wxformat/#>)：「歌词经理」号主写的排版工具，**目前看到最好** ，强推。
+- [lyric](<https://lab.lyric.im/wxformat/#>)：「歌词经理」号主写的排版工具 ，强推。
+- [doocmd](https://doocs.github.io/md/)：基于歌词经理改造，比它要好
 - [新媒体管家](<http://xmt.cn/index>)：多家内容创作平台管理
 - [简媒](<http://www.ejianmedia.com/#/>)：同上
 - [MdNice](https://mdnice.com/)：又看到一款非常好的，支持 10 几种样式，开源免费
