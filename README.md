@@ -6,10 +6,6 @@
 
 
 
-更多分享请关注我的公众号「**Linux云计算网络**」。
-
-
-
 ## 搜索引擎
 
 首选 Google，fq 工具首选 [Shadowsocks](<https://github.com/shadowsocks>)，各个系统下载见[这里](https://copr.fedorainfracloud.org/coprs/librehat/shadowsocks/)，免费上网代理找 [V站](<https://free-ss.ooo/>)
@@ -248,6 +244,5 @@
 
 ---
 
-更多分享请参见我的公众号「**Linux云计算网络**」：
+**持续更新中。。喜欢就给我一个 start 吧**
 
-![](images/wxgzh.jpeg)
