@@ -41,6 +41,7 @@
 - [今日热榜](https://tophub.today/)：追热点啦，汇聚各大平台的 Top 10 热点
 - [AnyKnew](https://www.anyknew.com/#/)：另一个热榜，信息没上一个全，文艺小清新风格
 - [addog](http://www.addog.vip/)：极品干货、打遍天下无敌手网站（最全导航，囊括所有）
+- [鱼塘热榜](https://mo.fish/)：摸鱼好网站
 
 
 
